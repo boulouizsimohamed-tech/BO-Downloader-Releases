@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/boulouizsimohamed-tech/BO-Downloader-Releases/releases/latest">
-    <img src="https://img.shields.io/badge/Download_APK-v1.1.0-FFB800?style=for-the-badge&logo=android&logoColor=black" alt="Download APK">
+    <img src=""C:\Users\pc\Desktop\Gemini_Generated_Image.jpeg"" alt="Download APK">
   </a>
-  <img src="https://img.shields.io/badge/Platform-Android-00D2FF?style=for-the-badge&logo=android&logoColor=black" alt="Android Support">
+  <img src=""C:\Users\pc\Desktop\Gemini_Generated_Image.jpeg"" alt="Android Support">
   <img src="https://img.shields.io/badge/Built_With-Flutter_&_FastAPI-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Built With">
 </p>
 

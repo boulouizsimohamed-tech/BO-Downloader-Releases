@@ -1,60 +1,45 @@
-# 📥 BO Downloader — Obsidian Media Suite
+# 📥 BO Downloader
 
-**BO Downloader** is a high-performance, minimalist, and ad-free Android media downloader built with Flutter, powered by a robust Python/FastAPI backend using `yt-dlp`. Save real streams directly to your gallery in maximum quality with zero watermarks.
+**BO Downloader** is a high-performance, sleek, and minimalist media downloader mobile application for Android, powered by Flutter and a robust FastAPI backend to save your favorite media beautifully and effortlessly.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/boulouizsimohamed-tech/BO-Downloader-Releases/main/ad-banner.jpg" alt="BO Downloader Banner" width="100%">
-</p>
+![BO Downloader Banner](https://github.com/boulouizsimohamed-tech/BO-Downloader-Releases/raw/main/Gemini_Generated_Image.jpeg)
 
-<p align="center">
-  <a href="https://github.com/boulouizsimohamed-tech/BO-Downloader-Releases/releases/latest">
-    <img src=""C:\Users\pc\Desktop\Gemini_Generated_Image.jpeg"" alt="Download APK">
-  </a>
-  <img src=""C:\Users\pc\Desktop\Gemini_Generated_Image.jpeg"" alt="Android Support">
-  <img src="https://img.shields.io/badge/Built_With-Flutter_&_FastAPI-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Built With">
-</p>
+[![Download Latest APK](https://img.shields.io/badge/Download_APK-v1.1.0-amber?style=for-the-badge&logo=android)](https://github.com/boulouizsimohamed-tech/BO-Downloader-Releases/releases/latest)
+![Platform](https://img.shields.io/badge/Platform-Android-blue?style=for-the-badge&logo=android)
+![Built With](https://img.shields.io/badge/Built_With-Flutter-02569B?style=for-the-badge&logo=flutter)
 
 ---
 
 ## ✨ Key Features
 
-- **⚡ Real Streams, No Watermarks:** Fetches original video and audio source streams without compromising quality or adding forced branding.
-- **📱 10+ Supported Platforms:** Seamless link inspection and download from YouTube, TikTok, Instagram, X (Twitter), Reddit, Facebook, Vimeo, SoundCloud, Dailymotion, Web Media, and more.
-- **🎨 Obsidian Luxury Aesthetic:** Premium dark/gold UI with instant link detection, paste button, and inspect mechanics.
-- **🔄 In-App Auto-Updates:** Built-in OTA updater directly connected to GitHub Releases. Get notified and install updates seamlessly with one tap.
-- **⚡ Background Downloader:** Download large video and audio files in the background while browsing other apps.
-- **📂 Clean Gallery Organization:** Automatically categorizes and saves media files straight into your Android device storage.
+- **Save Anything, Beautifully:** A sleek, minimalist dark & gold Obsidian-inspired user interface built for speed and clarity.
+- **10+ Supported Platforms:** Direct, high-quality downloads from YouTube, TikTok, Instagram, X (Twitter), Facebook, Reddit, SoundCloud, Dailymotion, Vimeo, and more.
+- **Ultra-Fast & Direct Streams:** Powered by a Python/FastAPI and `yt-dlp` engine to extract real media streams at maximum speed.
+- **No Watermarks:** Save clean videos and high-bitrate audio directly to your device gallery.
+- **Privacy First:** Zero tracking, zero intrusive ads — your links and downloads stay completely private on your device.
+- **In-App Auto-Updates:** Automatically checks GitHub Releases for new versions and updates with a single tap.
 
 ---
 
-## 📥 How to Download & Install
+## 📥 How to Download & Install (Android)
 
-1. Go to the **[Latest Release](https://github.com/boulouizsimohamed-tech/BO-Downloader-Releases/releases/latest)** page (or click the yellow **Download APK** button above).
-2. Under the **Assets** section, tap on **`BO-Downloader-v1.1.0.apk`** to download.
-3. Open the downloaded `.apk` file from your device notifications or File Manager.
-4. If Android asks, allow **"Install unknown apps"** for your browser or file manager, then tap **Install**.
-
----
-
-## ⚙️ How it Works
-
-1. **Copy Link:** Copy any video or audio URL from supported platforms.
-2. **Inspect Link:** Paste the link inside **BO Downloader** and tap **Inspect link**.
-3. **Choose Quality:** Select your preferred resolution/audio format and hit **Download**.
-4. **Instant Offline Access:** Watch or listen to your media straight from your gallery or inside the app.
+1. Go to the **[Latest Release](https://github.com/boulouizsimohamed-tech/BO-Downloader-Releases/releases/latest)** page (or click the **Download APK** badge above).
+2. Under the **Assets** section, tap on **`BO-Downloader-v1.1.0.apk`** to download it to your Android device.
+3. Open the downloaded `.apk` file from your notifications or File Manager.
+4. If prompted by Android, enable **"Allow from this source"** (Install Unknown Apps) and tap **Install**.
 
 ---
 
-## 🔒 Privacy & Security
+## 🛠️ How It Works
 
-- **Direct Download:** Media is processed through optimized streams straight to your device.
-- **No Intrusive Ads:** Completely free of pop-ups, redirects, or background tracking.
-- **Verified Builds:** Officially signed APK with SHA security validation.
+1. **Paste:** Copy any public video or audio link and paste it into BO Downloader.
+2. **Inspect:** Tap **Inspect link** to fetch available stream qualities and formats.
+3. **Save:** Pick your preferred quality and save it straight to your gallery.
 
 ---
 
-## 👨‍💻 Developer & Portfolio
+## 👨‍💻 Developer
 
 Designed & Developed by **Mohamed Boulouiz**
-- **Portfolio:** [mohamed-boulouiz-portfolio.vercel.app](https://mohamed-boulouiz-portfolio.vercel.app)
 - **GitHub:** [@boulouizsimohamed-tech](https://github.com/boulouizsimohamed-tech)
+- **Portfolio:** [mohamed-boulouiz-portfolio.vercel.app](https://mohamed-boulouiz-portfolio.vercel.app)
